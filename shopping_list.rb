@@ -49,7 +49,15 @@ begin
     keep_looping = false
   else
     puts "That is not a valid entry, try (y/n)"
-    list['items'].push(add_list_item())
+    answer = gets.chomp.downcase
+    if answer == "y"
+      list['items'].push(add_list_item())
+    elsif answer == "n"
+      keep_looping = false
+    else
+      puts "You got it wrong again the program will exit here."
+      keep_looping = false
+    end
   end
 end until !keep_looping
 

@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16764a57-c79d-4628-af1a-cb8c9be87b14" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/array_addition.rb" afterPath="$PROJECT_DIR$/ruby_basics/array_addition.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/array_creation.rb" afterPath="$PROJECT_DIR$/ruby_basics/array_creation.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/car.rb" afterPath="$PROJECT_DIR$/ruby_basics/car.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/contact_list.rb" afterPath="$PROJECT_DIR$/ruby_basics/contact_list.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/control_structures.rb" afterPath="$PROJECT_DIR$/ruby_basics/control_structures.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/create_a_hash.rb" afterPath="$PROJECT_DIR$/ruby_basics/create_a_hash.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/each.rb" afterPath="$PROJECT_DIR$/ruby_basics/each.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/each_addition.rb" afterPath="$PROJECT_DIR$/ruby_basics/each_addition.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/favorite_number.rb" afterPath="$PROJECT_DIR$/ruby_basics/favorite_number.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/for_loop.rb" afterPath="$PROJECT_DIR$/ruby_basics/for_loop.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/hash_iteration.rb" afterPath="$PROJECT_DIR$/ruby_basics/hash_iteration.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/hash_methods.rb" afterPath="$PROJECT_DIR$/ruby_basics/hash_methods.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/loop.rb" afterPath="$PROJECT_DIR$/ruby_basics/loop.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/loop_conditional.rb" afterPath="$PROJECT_DIR$/ruby_basics/loop_conditional.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/number.rb" afterPath="$PROJECT_DIR$/ruby_basics/number.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/shopping_list.rb" afterPath="$PROJECT_DIR$/ruby_basics/shopping_list.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/times.rb" afterPath="$PROJECT_DIR$/ruby_basics/times.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/times_with_argument.rb" afterPath="$PROJECT_DIR$/ruby_basics/times_with_argument.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/until.rb" afterPath="$PROJECT_DIR$/ruby_basics/until.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/until_number.rb" afterPath="$PROJECT_DIR$/ruby_basics/until_number.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/while_loop.rb" afterPath="$PROJECT_DIR$/ruby_basics/while_loop.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ruby/while_number.rb" afterPath="$PROJECT_DIR$/ruby_basics/while_number.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ruby objects and classes/name.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,6 +32,7 @@
     <SUITE FILE_PATH="coverage/treehouse@for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1485082732084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/treehouse@hash_iteration.coverage" NAME="hash_iteration Coverage Results" MODIFIED="1485082301735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/treehouse@array_creation.coverage" NAME="array_creation Coverage Results" MODIFIED="1484770574692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
+    <SUITE FILE_PATH="coverage/treehouse@name.coverage" NAME="name Coverage Results" MODIFIED="1485167792315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby objects and classes" MODULE_NAME="untitled" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -66,7 +47,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="name.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruby objects and classes/name.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/object.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-959">
+              <caret line="526" column="8" lean-forward="false" selection-start-line="526" selection-start-column="8" selection-end-line="526" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,6 +105,7 @@
         <option value="$PROJECT_DIR$/ruby/times_with_argument.rb" />
         <option value="$PROJECT_DIR$/ruby/for_loop.rb" />
         <option value="$PROJECT_DIR$/ruby/contact_list.rb" />
+        <option value="$PROJECT_DIR$/ruby objects and classes/name.rb" />
       </list>
     </option>
   </component>
@@ -137,6 +140,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,10 +152,27 @@
               <option name="myItemId" value="treehouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby_basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treehouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby objects and classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,26 +186,7 @@
       <recent name="$PROJECT_DIR$/ruby" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.contact_list">
-    <configuration default="false" name="hash_iteration" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="untitled" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ruby_basics" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby_basics/hash_iteration.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.name">
     <configuration default="false" name="times" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="untitled" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -258,6 +260,25 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby_basics/contact_list.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="name" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="untitled" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ruby objects and classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby objects and classes/name.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -398,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.hash_iteration" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.times" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.times_with_argument" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.for_loop" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.contact_list" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.times" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.times_with_argument" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.for_loop" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.contact_list" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.name" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.contact_list" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.for_loop" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.times_with_argument" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.times" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.hash_iteration" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.name" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.contact_list" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.for_loop" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.times_with_argument" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.times" />
       </list>
     </recent_temporary>
   </component>
@@ -434,11 +455,12 @@
       <workItem from="1484954106563" duration="1042000" />
       <workItem from="1485063453511" duration="9706000" />
       <workItem from="1485138420131" duration="775000" />
+      <workItem from="1485156940660" duration="7307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39191000" />
+    <option name="totallyTimeSpent" value="46498000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,16 +473,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2326" y="52" width="960" height="991" extended-state="4" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09737418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09956236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3939064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3939064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.437432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3460283" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -479,7 +501,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -550,14 +574,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ruby/new.rb" />
-    <entry file="file://$PROJECT_DIR$/ruby_basics/shopping_list.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ruby_basics/loop.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -658,6 +674,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby objects and classes/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby_basics/shopping_list.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="50" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-959">
+          <caret line="526" column="8" lean-forward="false" selection-start-line="526" selection-start-column="8" selection-end-line="526" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby objects and classes/name.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
           <folding />
         </state>
       </provider>
